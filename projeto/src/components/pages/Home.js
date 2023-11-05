@@ -10,9 +10,10 @@ function Home() {
         Bem-vindo ao <span>Folha & Flor</span>
       </h1>
       <p>Comece a gerenciar os seus projetos agora mesmo!</p>
-      <LinkButton to="/newproject" text="Criar Projeto" />
-      <img src={savings} alt="Cost" />
+      <LinkButton to="/newproject" text="Criar projeto" />
+      <img src={savings} alt="Savings" />
     </section>
   );
 }
+
 export default Home;
