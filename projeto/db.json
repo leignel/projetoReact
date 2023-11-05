@@ -1,8 +1,12 @@
 {
   "projects": [
     {
-      "name": "Cristian Leignel",
-      "budget": "15000",
+      "name": "Projeto Teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
       "cost": 0,
       "services": [],
       "id": 1

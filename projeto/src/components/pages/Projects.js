@@ -22,7 +22,6 @@ function Projects() {
   }
 
   useEffect(() => {
-    // Para ver o loading
     setTimeout(
       () =>
         fetch("http://localhost:5000/projects", {
